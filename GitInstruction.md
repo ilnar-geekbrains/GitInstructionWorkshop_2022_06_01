@@ -8,6 +8,11 @@
 
 ## Установка git и VSCode на ваш ПК.
 
+<code>[https://code.visualstudio.com/](VSCode)
+</code>
+<code>[https://git-scm.com/](Git)
+</code> 
+
 ### Установка VSCode на ваш ПК.
 
 ### Установка git на ваш ПК
