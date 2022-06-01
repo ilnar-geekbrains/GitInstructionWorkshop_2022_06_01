@@ -152,4 +152,12 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+[Тренажёр по Git](https://learngitbranching.js.org/?locale=ru_RU)
+
+[Введение пв Git](https://git-scm.com/docs/gittutorial)
+
+[Курс по Git](https://smartiqa.ru/courses/git)
+
+[Энциклопедия по Git](https://git.wiki.kernel.org/index.php/Main_Page)
+
 ## Альтернативные системы контроля версий.
