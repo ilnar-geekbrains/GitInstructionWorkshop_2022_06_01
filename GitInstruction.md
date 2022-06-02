@@ -16,7 +16,7 @@
 </code> 
 
 ### Установка VSCode на ваш ПК.
-
+Hi, i am ViktorKa. gust try pull
 ### Установка git на ваш ПК
 
 1. **Установка на Mac**
