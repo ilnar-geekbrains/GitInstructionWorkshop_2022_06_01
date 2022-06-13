@@ -8,14 +8,15 @@
 
 ### Для чего нужна система контроля версий
 
-## Установка git и VSCode на ваш ПК.
 
-<code>[https://code.visualstudio.com/](VSCode)
-</code>
-<code>[https://git-scm.com/](Git)
-</code> 
 
 ### Установка VSCode на ваш ПК.
+
+#### Для Windows
+
+*Проходим по ссылке:*
+<code>[https://code.visualstudio.com/](VSCode)
+жмём Download for Windows, после окончания скачивания запускаем .exe-файл, следуем инструкциям.
 
 ### Установка git на ваш ПК
 
